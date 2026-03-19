@@ -104,12 +104,28 @@ df['RecoveryRate'] = (df['Recovered'] / df['Confirmed']) \
 
 ## 📈 Visualizations:
 
-The following visualizations are included in the project:
+## 📸 Visualizations
 
-- Global plot forecast
-- Global plot components for future 7 days
-- India plot forecast
-- India plot forecast for future 7 days
+### 📊 Daily Cases Trend
+
+![Daily Cases](images/daily_cases.png)
+
+### 📉 7-Day Rolling Average
+
+![Rolling Average](images/rolling_average.png)
+
+### 🧮 Case Fatality Rate (CFR)
+
+![CFR](images/cfr.png)
+
+### 💚 Recovery Rate
+
+![Recovery Rate](images/recovery_rate.png)
+
+### 🌍 Global vs India Comparison
+
+![Comparison](images/global_vs_india.png)
+
 
 ----
 
