@@ -106,12 +106,10 @@ df['RecoveryRate'] = (df['Recovered'] / df['Confirmed']) \
 
 The following visualizations are included in the project:
 
-- 📉 Daily New Confirmed Cases
-- 📊 7-Day Rolling Average Trends
-- 🧮 Case Fatality Rate (CFR) over time
-- 💚 Recovery Rate analysis
-- 🌍 Global vs India comparison
-- 🟦 Interactive Line and Bar Charts using Plotly
+- Global plot forecast
+- Global plot components for future 7 days
+- India plot forecast
+- India plot forecast for future 7 days
 
 ----
 
