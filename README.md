@@ -108,19 +108,19 @@ df['RecoveryRate'] = (df['Recovered'] / df['Confirmed']) \
 
 ### 📊 Daily Cases Trend
 
-![Daily Cases](images/daily_cases.png)
+![Daily Cases]([images/daily_cases.png](https://github.com/darshinio-debug/Covid-19/blob/main/Daily%20cases%20Trend.png))
 
 ### 📉 7-Day Rolling Average
 
-![Rolling Average](images/rolling_average.png)
+![Rolling Average]([images/rolling_average.png](https://github.com/darshinio-debug/Covid-19/blob/main/7-Day%20Rolling%20Average.png))
 
 ### 🧮 Case Fatality Rate (CFR)
 
-![CFR](images/cfr.png)
+![CFR]([images/cfr.png](https://github.com/darshinio-debug/Covid-19/blob/main/Case%20Fatality%20Rate.png))
 
 ### 💚 Recovery Rate
 
-![Recovery Rate](images/recovery_rate.png)
+![Recovery Rate]([images/recovery_rate.png](https://github.com/darshinio-debug/Covid-19/blob/main/Recovery%20Rate.png))
 
 ### 🌍 Global vs India Comparison
 
