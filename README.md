@@ -26,8 +26,6 @@ Interactive and static visualizations are used to clearly communicate pandemic t
 
 ## 📊 Dataset Information
 
-## 📊 Dataset Information
-
 * **Source:** Johns Hopkins / Kaggle
 * **Type:** Time-series COVID-19 data
 * **Granularity:** Daily records
@@ -101,8 +99,6 @@ df['RecoveryRate'] = (df['Recovered'] / df['Confirmed']) \
                      .fillna(0)
 ```
 ---
-
-## 📈 Visualizations:
 
 ## 📸 Visualizations
 
