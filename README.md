@@ -26,10 +26,16 @@ Interactive and static visualizations are used to clearly communicate pandemic t
 
 ## 📊 Dataset Information
 
-- **Dataset Type**: Time-series COVID-19 data
-- **Source**: Public COVID-19 datasets (Johns Hopkins / Kaggle)
-- **Time Period**: From the beginning of the pandemic till available date
-- **Granularity**: Daily records
+## 📊 Dataset Information
+
+* **Source:** Johns Hopkins / Kaggle
+* **Type:** Time-series COVID-19 data
+* **Granularity:** Daily records
+
+👉 📁 **Dataset:** [View Dataset on Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
+
+---
+
 
 ### Key Columns:
 - `Date`
