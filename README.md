@@ -120,7 +120,7 @@ df['RecoveryRate'] = (df['Recovered'] / df['Confirmed']) \
 
 ### 🌍 Global vs India Comparison
 
-![Comparison](images/global_vs_india.png)
+![Comparison]([images/global_vs_india.png](https://github.com/darshinio-debug/Covid-19/blob/main/Global%20Vs%20India%20comparsion.png))
 
 
 ----
